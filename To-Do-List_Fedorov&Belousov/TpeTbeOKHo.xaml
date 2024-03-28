@@ -1,0 +1,18 @@
+﻿<Window x:Class="To_Do_List_Fedorov_Belousov.TpeTbeOKHo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:To_Do_List_Fedorov_Belousov"
+        mc:Ignorable="d"
+        Title="TpeTbeOKHo" Height="450" Width="800">
+    <Grid>
+        <Image Source="statni.jpg" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Foreground="#FC0FC0" FontSize="35" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="75"><Run Text="Выбери что ты х"/><Run Language="ru-ru" Text="о"/><Run Text="чешь"/><LineBreak/><Run/></TextBlock>
+        <Button Content="Создать новую задачу" Background=" #FE28A2" Foreground="Aquamarine" HorizontalAlignment="Left" Margin="81,197,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Удалить задачу" HorizontalAlignment="Center" Background=" #F400A1" Foreground="Azure" Margin="0,366,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Button Content="Отметить &#xD;&#xA;задачу&#xD;&#xA;выполненной" Background="#D71868" Foreground="AliceBlue" HorizontalAlignment="Left" Margin="615,167,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.196,1.054" Click="Button_Click_2"/>
+        <Button Content="Подумать" Background="#EF0097" Foreground="Azure" HorizontalAlignment="Left" Margin="695,35,0,0" VerticalAlignment="Top" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

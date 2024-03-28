@@ -1,0 +1,31 @@
+﻿<Window x:Class="To_Do_List_Fedorov_Belousov.OKH_o_O"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:To_Do_List_Fedorov_Belousov"
+        mc:Ignorable="d"
+        Title="OKH_o_O" Height="450" Width="800">
+    <Grid>
+        <Image Source="/maxresdefault (2).jpg" Stretch="Fill"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="24,25,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="24,86,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="24,147,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="24,209,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="24,269,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="24,332,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="141,25,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="141,86,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="141,147,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="141,209,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="141,269,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="141,332,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="267,25,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="267,86,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="267,147,0,0" VerticalAlignment="Top" Click="Button_Click_2" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="267,209,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="267,269,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100" RenderTransformOrigin="2.739,5.307"/>
+        <Button Content="Выйти" FontSize="25" Background="#FB607F" Foreground="White" HorizontalAlignment="Left" Margin="267,332,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="45" Width="100"/>
+
+    </Grid>
+</Window>
